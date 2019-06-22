@@ -2,7 +2,7 @@
 
 * Midi Controller made with arduino.
 
-  Prototype a midi controller with an expression pedal. Ideal for musicans who use effects simulation software, for example Guitar Rig, Bias FX and others.
+  Prototype of a midi controller with an expression pedal. Ideal for musicians who use effects simulation software, for example Guitar Rig, Bias FX and others.
 
 * Controlador Midi feito com Arduino.
 
