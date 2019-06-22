@@ -4,7 +4,7 @@
 
   Prototype of a midi controller with an expression pedal. Ideal for musicians who use effects simulation software, for example Guitar Rig, Bias FX and others.
   
-  You will need two softwares [Hairless MIDI](http://projectgus.github.io/hairless-midiserial/){:target="_blank"} and [LoopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html){:target="_blank"} (Windows)
+  You will need two softwares [Hairless MIDI](http://projectgus.github.io/hairless-midiserial/) and [LoopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) (Windows)
 
 * Controlador Midi feito com Arduino UNO.
 
